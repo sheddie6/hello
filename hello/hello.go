@@ -1,7 +1,7 @@
 package main
 
 import ("fmt"
-	"github.com/sheddie/stringutil"
+	"github.com/sheddie/hello/stringutil"
 )
 
 func main() {
